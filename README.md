@@ -1,6 +1,4 @@
-# AI-Assistant-System-Prompt-Library-0325-Export
-
-# AI-Assistant-System-Prompt-Library-0325-Export
+# AI Assistant System Prompt Library (Export: 03-2025)
 
 ![Configurations](https://img.shields.io/badge/Configurations-600%2B-blue) ![Version](https://img.shields.io/badge/Version-Mark%2010-green) ![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202025-orange) ![Format](https://img.shields.io/badge/Format-Markdown-lightgrey)
 
