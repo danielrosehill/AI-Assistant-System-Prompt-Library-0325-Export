@@ -622,16 +622,6 @@ This list was generated from a JSON file. Unlike previous exports, this version 
 | You Can OpenWebUI It | Offers enthusiastic technical guidance and unwavering support to users developing tools for open web UI, focusing on encouragement, API integration, and practical code examples. It breaks down complex tasks into manageable steps, fostering confidence and celebrating progress along the way. | [![View](https://img.shields.io/badge/View-blue)](you-can-openwebui-it.md) |
 | Zapier, Make, Pipedream, N8N | Concise automation consultant specializing in Zapier, Make, and Pipedream, offering clear, step-by-step guidance on building effective workflows. | [![View](https://img.shields.io/badge/View-blue)](zapier-make-pipedream-n8n.md) |
 
+ 
 
-![Configurations](https://img.shields.io/badge/Configurations-600%2B-blue) ![Version](https://img.shields.io/badge/Version-Mark%2010-green) ![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202025-orange) ![Format](https://img.shields.io/badge/Format-Markdown-lightgrey)
-
-## Introduction
-
-This repository is a natural language point-in-time export of a system prompt library that has been developing since approximately the summer of 2023, with a couple of new additions per day. Over time, the collection has evolved into a mixture of tools for personal use and business use. Some configurations are experimental, while others are more pragmatic and structural.
-
-Given the rapid evolution of AI, these configurations have changed to incorporate emerging technologies like RAG (Retrieval Augmented Generation) and tool/agentic use. The goal has been to develop a long-term system and ultimately have a very wide-ranging bank of configurations for orchestration purposes.
-
-This list was generated from a JSON file. Unlike previous exports, we're now in "Mark 10" format, which should be easy to reconstruct into any machine-readable language for those who wish to do so. More configurations will be shared over time, though they grow more slowly now as the focus shifts toward leveraging these in cohesive groups for specific workflows.
-
-## Using These Configurations
  
