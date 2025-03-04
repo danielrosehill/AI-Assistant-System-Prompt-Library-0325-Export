@@ -2,7 +2,17 @@
 
 ![alt text](banner.webp)
 
-![Configurations](https://img.shields.io/badge/Configurations-604-blue) ![Version](https://img.shields.io/badge/Version-Mark%2010-green) ![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202025-orange) ![Format](https://img.shields.io/badge/Format-Markdown-lightgrey)
+
+![Configurations](https://img.shields.io/badge/Configurations-604-blue) ![Version](https://img.shields.io/badge/Version-Mark%2010-green) ![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202025-orange) ![Format](https://img.shields.io/badge/Format-Markdown-lightgrey) 
+
+## Navigate Configurations Online
+
+Click the badge to view a navigable directory of these configurations
+
+[![View Online](https://img.shields.io/badge/View%20Online-agents.bydanielrosehill.com-brightgreen)](https://agents.bydanielrosehill.com/)
+
+
+![alt text](screenshots/1.png)
 
 ## Introduction
 
