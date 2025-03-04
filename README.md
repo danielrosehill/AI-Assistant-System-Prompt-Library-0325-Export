@@ -1,6 +1,8 @@
 # AI Assistant System Prompt Library (Export: 03-2025)
 
-![Configurations](https://img.shields.io/badge/Configurations-600%2B-blue) ![Version](https://img.shields.io/badge/Version-Mark%2010-green) ![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202025-orange) ![Format](https://img.shields.io/badge/Format-Markdown-lightgrey)
+![alt text](banner.webp)
+
+![Configurations](https://img.shields.io/badge/Configurations-604-blue) ![Version](https://img.shields.io/badge/Version-Mark%2010-green) ![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202025-orange) ![Format](https://img.shields.io/badge/Format-Markdown-lightgrey)
 
 ## Introduction
 
@@ -8,7 +10,7 @@ This repository is a natural language point-in-time export of a system prompt li
 
 Given the rapid evolution of AI, these configurations have changed to incorporate emerging technologies like RAG (Retrieval Augmented Generation) and tool/agentic use. The goal has been to develop a long-term system and ultimately have a very wide-ranging bank of configurations for orchestration purposes.
 
-This list was generated from a JSON file. Unlike previous exports, we're now in "Mark 10" format, which should be easy to reconstruct into any machine-readable language for those who wish to do so. More configurations will be shared over time, though they grow more slowly now as the focus shifts toward leveraging these in cohesive groups for specific workflows.
+This list was generated from a JSON file. Unlike previous exports, this version is in markdown format which should be easy to reconstruct into any machine-readable language for those who wish to do so. More configurations will be shared over time, though they grow more slowly now as the focus shifts toward leveraging these in cohesive groups for specific workflows.
 
  
  ## Alphabetical Index
